@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Agency v5.0.5 (https://startbootstrap.com/template-overviews/agency)
+ * Start Bootstrap - BRIDGE v5.0.5 (https://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/bridge/blob/master/LICENSE)
  */
@@ -63,6 +63,7 @@ section h3.section-subheading {
 .btn {
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
+  border-radius: 290px;
 }
 
 .btn-xl {
