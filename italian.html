@@ -726,6 +726,11 @@
                             </div>
                         </div>
                     </div>
+                    <div class="form-group">
+                      <div class="g-recaptcha" data-sitekey="6LdoXsgUAAAAAO2PzOGRfRS9mL-Pp1nfAdklkLb_" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
+                      <input class="form-control d-none" data-recaptcha="true" required data-error="Please complete the Captcha">
+                      <div class="help-block with-errors"></div>
+                  </div>
                 </form>
         </div>
       </div>
@@ -996,6 +1001,8 @@
  -->
   <!-- Custom scripts for this template -->
   <script src="js/agency.min.js"></script>
+
+  <script src='https://www.google.com/recaptcha/api.js'></script>
 
 
 </body>
